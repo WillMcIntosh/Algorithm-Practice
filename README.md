@@ -1,2 +1,2 @@
 # JavaScript-Algorithms
-Collection of various algorithm projects solved using JavaScript
+Collection of various algorithms solved while working through FreeCodeCamp
