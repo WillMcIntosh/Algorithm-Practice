@@ -4,4 +4,4 @@ def factorialize(_num):
     else:
         return _num * factorialize(_num - 1)
 
-print(factorialize(3))
+print(factorialize(40)%10**9)
